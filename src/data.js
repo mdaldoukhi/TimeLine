@@ -14,19 +14,19 @@ const dataLine = [
     {
         id: 3,
         year: "2001",
-        title: "Elementary schoo",
+        title: "Elementary School",
         desc: "Meshari Graduated in Preschool and then joined Abdul-Aziz Qasim Hamdaa, which I spent 5 years"
     },
     {
         id: 4,
         year: "2006",
-        title: "Middle school",
+        title: "Middle School",
         desc: "After I graduated from Elementary school I joined multiple school such as Safwan Bin Omaya, and spent 4 years"
     },
     {
         id: 5,
         year: "2010",
-        title: "High school",
+        title: "High School",
         desc: "Final Stage of school, I just joined Lubaid bin Rab'a and spent 3 years"
     },
     {
